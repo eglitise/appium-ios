@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 10.5.0 (2026-10-02)
+
+### Features
+
+* move appium-ios-simulator into the monorepo as packages/simulator ([#17](https://github.com/appium/appium-ios/issues/17)) ([e034ace](https://github.com/appium/appium-ios/commit/e034ace450236e91593d1d7f1e4c60781ed2e8a2))
+
+### Miscellaneous Chores
+
+* **deps:** Bump semver from 7.7.2 to 7.8.5 ([#20](https://github.com/appium/appium-ios/issues/20)) ([d0be872](https://github.com/appium/appium-ios/commit/d0be8721de74f327613ce17ad1881046d9ede373))
+* ensure Dependabot preserves version ranges ([#24](https://github.com/appium/appium-ios/issues/24)) ([95e4e1a](https://github.com/appium/appium-ios/commit/95e4e1a4703f8ca833f01ecf2af75f4696d98043))
+* publish ([da9df50](https://github.com/appium/appium-ios/commit/da9df509454bca268192150e4d3302d7f000a5c9))
+* publish ([c891212](https://github.com/appium/appium-ios/commit/c89121221cab1f00280a93f49e601edb7f387cbf))
+* publish ([f63d306](https://github.com/appium/appium-ios/commit/f63d30608de059eb3cf932800fd95e45a1b16b1c))
+
+
 ## [10.4.2](https://github.com/appium/appium-ios/compare/appium-ios-simulator@10.4.1...appium-ios-simulator@10.4.2) (2026-10-02)
 
 ### Miscellaneous Chores

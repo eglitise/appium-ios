@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2.3.0 (2026-10-02)
+
+### Features
+
+* move appium-ios-tuntap into the monorepo as packages/tuntap ([#14](https://github.com/appium/appium-ios/issues/14)) ([92421e1](https://github.com/appium/appium-ios/commit/92421e10b385fb1b3f05cfa7601954734e8b0196))
+* move appium/coresim into the monorepo as packages/coresim ([#16](https://github.com/appium/appium-ios/issues/16)) ([a1acd55](https://github.com/appium/appium-ios/commit/a1acd556f716595d120bc2bf92b317ad84cbfad4))
+
+### Miscellaneous Chores
+
+* ensure Dependabot preserves version ranges ([#24](https://github.com/appium/appium-ios/issues/24)) ([95e4e1a](https://github.com/appium/appium-ios/commit/95e4e1a4703f8ca833f01ecf2af75f4696d98043))
+* publish ([da9df50](https://github.com/appium/appium-ios/commit/da9df509454bca268192150e4d3302d7f000a5c9))
+* publish ([f63d306](https://github.com/appium/appium-ios/commit/f63d30608de059eb3cf932800fd95e45a1b16b1c))
+* publish ([ea08521](https://github.com/appium/appium-ios/commit/ea08521b1a06e086e979b53002884710a027a12d))
+* publish ([3cc0873](https://github.com/appium/appium-ios/commit/3cc0873527ff977088d7a974e71590b31adbf6fd))
+
+
 ## [2.2.2](https://github.com/appium/appium-ios/compare/appium-ios-tuntap@2.2.1...appium-ios-tuntap@2.2.2) (2026-10-02)
 
 ### Miscellaneous Chores

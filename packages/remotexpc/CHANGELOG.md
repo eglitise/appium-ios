@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 5.25.0 (2026-10-02)
+
+### Features
+
+* move appium-ios-remotexpc into the monorepo as packages/remotexpc ([#22](https://github.com/appium/appium-ios/issues/22)) ([e448236](https://github.com/appium/appium-ios/commit/e4482360b4e1712d3522b28d3c4f0b4d7b576ca7))
+
+### Miscellaneous Chores
+
+* ensure Dependabot preserves version ranges ([#24](https://github.com/appium/appium-ios/issues/24)) ([95e4e1a](https://github.com/appium/appium-ios/commit/95e4e1a4703f8ca833f01ecf2af75f4696d98043))
+* publish ([da9df50](https://github.com/appium/appium-ios/commit/da9df509454bca268192150e4d3302d7f000a5c9))
+* publish ([5ae958e](https://github.com/appium/appium-ios/commit/5ae958e85151476faa49364385c85e000e6ff324))
+
+
 ## [5.24.1](https://github.com/appium/appium-ios/compare/appium-ios-remotexpc@5.24.0...appium-ios-remotexpc@5.24.1) (2026-10-02)
 
 ### Miscellaneous Chores
